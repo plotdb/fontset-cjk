@@ -2,9 +2,6 @@
 
 Curated list of fonts - CJK version.
 
-All fonts should contain their origin and corresponding license, and should be free to for commercial use.
-
-
 
 ## Repo Structure
 
@@ -31,3 +28,10 @@ All fonts listed here should be released under open license that are okay for re
 Detail of corresponding license for each font should be available in the directory for that font.
 
 Source code except those from fonts repo are released under MIT License.
+
+
+## Note
+
+若干自由字型可能存在侵權疑慮, 包含王漢宗的 14 套字型, cwtex 以及 Fandol 系列, 故未收錄於此.
+
+
