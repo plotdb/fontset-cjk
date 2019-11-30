@@ -1,0 +1,18 @@
+[submodule "ButTaiwan/源樣明體"]
+	path = ButTaiwan/源樣明體
+	url = https://github.com/ButTaiwan/genyo-font
+[submodule "ButTaiwan/源流明體"]
+	path = ButTaiwan/源流明體
+	url = https://github.com/ButTaiwan/genryu-font
+[submodule "ButTaiwan/源雲明體"]
+	path = ButTaiwan/源雲明體
+	url = https://github.com/ButTaiwan/genwan-font
+[submodule "ButTaiwan/源樣黑體"]
+	path = ButTaiwan/源樣黑體
+	url = https://github.com/ButTaiwan/genyog-font
+[submodule "ButTaiwan/源石黑體"]
+	path = ButTaiwan/源石黑體
+	url = https://github.com/ButTaiwan/genseki-font
+[submodule "ButTaiwan/源泉圓體"]
+	path = ButTaiwan/源泉圓體
+	url = https://github.com/ButTaiwan/gensen-font
