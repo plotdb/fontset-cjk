@@ -32,6 +32,6 @@ Source code except those from fonts repo are released under MIT License.
 
 ## Note
 
-若干自由字型可能存在侵權疑慮, 包含王漢宗的 14 套字型, cwtex 以及 Fandol 系列, 故未收錄於此.
+若干自由字型可能存在侵權疑慮, 包含王漢宗字型, cwtex 以及 Fandol 系列, 故未收錄於此.
 
 
