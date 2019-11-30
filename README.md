@@ -2,6 +2,9 @@
 
 Curated list of fonts - CJK version.
 
+All fonts should contain their origin and corresponding license, and should be free to for commercial use.
+
+
 
 ## Repo Structure
 
